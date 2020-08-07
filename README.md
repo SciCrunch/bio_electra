@@ -52,6 +52,10 @@ pip install torch torchvision
 
 ## Pretraining
 
+The pre-trained Bio-ELECTRA and Bio-ELECTRA++ small ELECTRA models are available at Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3971235.svg)](https://doi.org/10.5281/zenodo.3971235)
+
+
+
 For pretraining, you need the prepare your corpus into files one line per sentence and documents separated by an empty line and put them under a single directory.
 ### Bio-ELECTRA
 The corpus is comprised of all PubMed abstracts with PMID >= 10,000,000 (19.2 million abstracts). 
