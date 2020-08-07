@@ -1,0 +1,10 @@
+ncbi-disease: precision: 83.54 - recall: 86.54 - f1: 85.01 - loss: 0.32
+ncbi-disease: precision: 85.11 - recall: 87.18 - f1: 86.13 - loss: 0.33
+ncbi-disease: precision: 83.83 - recall: 86.41 - f1: 85.10 - loss: 0.32
+ncbi-disease: precision: 82.48 - recall: 86.92 - f1: 84.64 - loss: 0.34
+ncbi-disease: precision: 82.78 - recall: 85.64 - f1: 84.18 - loss: 0.34
+ncbi-disease: precision: 82.40 - recall: 85.26 - f1: 83.81 - loss: 0.34
+ncbi-disease: precision: 83.37 - recall: 86.79 - f1: 85.05 - loss: 0.32
+ncbi-disease: precision: 83.65 - recall: 85.90 - f1: 84.76 - loss: 0.32
+ncbi-disease: precision: 82.80 - recall: 85.77 - f1: 84.26 - loss: 0.32
+ncbi-disease: precision: 84.05 - recall: 87.18 - f1: 85.59 - loss: 0.31

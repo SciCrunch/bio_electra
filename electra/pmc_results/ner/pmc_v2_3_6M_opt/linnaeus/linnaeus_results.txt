@@ -1,0 +1,10 @@
+linnaeus: precision: 94.44 - recall: 96.04 - f1: 95.23 - loss: 0.02
+linnaeus: precision: 94.59 - recall: 96.46 - f1: 95.52 - loss: 0.02
+linnaeus: precision: 91.70 - recall: 96.89 - f1: 94.22 - loss: 0.02
+linnaeus: precision: 93.96 - recall: 96.89 - f1: 95.40 - loss: 0.01
+linnaeus: precision: 95.40 - recall: 96.75 - f1: 96.07 - loss: 0.01
+linnaeus: precision: 91.81 - recall: 95.19 - f1: 93.47 - loss: 0.02
+linnaeus: precision: 93.52 - recall: 95.90 - f1: 94.69 - loss: 0.02
+linnaeus: precision: 92.86 - recall: 95.62 - f1: 94.22 - loss: 0.02
+linnaeus: precision: 94.03 - recall: 95.76 - f1: 94.88 - loss: 0.02
+linnaeus: precision: 95.42 - recall: 97.31 - f1: 96.36 - loss: 0.01

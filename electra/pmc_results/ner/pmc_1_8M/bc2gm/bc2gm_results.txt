@@ -1,0 +1,10 @@
+bc2gm: precision: 67.53 - recall: 74.90 - f1: 71.02 - loss: 0.18
+bc2gm: precision: 67.73 - recall: 75.13 - f1: 71.23 - loss: 0.18
+bc2gm: precision: 67.79 - recall: 75.00 - f1: 71.21 - loss: 0.18
+bc2gm: precision: 68.12 - recall: 75.09 - f1: 71.44 - loss: 0.18
+bc2gm: precision: 68.10 - recall: 75.00 - f1: 71.38 - loss: 0.18
+bc2gm: precision: 66.67 - recall: 75.32 - f1: 70.73 - loss: 0.18
+bc2gm: precision: 67.26 - recall: 74.88 - f1: 70.87 - loss: 0.18
+bc2gm: precision: 67.11 - recall: 75.13 - f1: 70.89 - loss: 0.18
+bc2gm: precision: 67.66 - recall: 75.14 - f1: 71.21 - loss: 0.18
+bc2gm: precision: 67.39 - recall: 74.70 - f1: 70.86 - loss: 0.18

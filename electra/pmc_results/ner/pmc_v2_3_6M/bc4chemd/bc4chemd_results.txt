@@ -1,0 +1,10 @@
+bc4chemd: precision: 83.73 - recall: 83.66 - f1: 83.70 - loss: 0.08
+bc4chemd: precision: 83.89 - recall: 83.97 - f1: 83.93 - loss: 0.08
+bc4chemd: precision: 83.47 - recall: 83.73 - f1: 83.60 - loss: 0.08
+bc4chemd: precision: 83.56 - recall: 84.02 - f1: 83.79 - loss: 0.08
+bc4chemd: precision: 83.65 - recall: 84.14 - f1: 83.90 - loss: 0.08
+bc4chemd: precision: 83.43 - recall: 83.54 - f1: 83.48 - loss: 0.08
+bc4chemd: precision: 83.55 - recall: 83.64 - f1: 83.60 - loss: 0.08
+bc4chemd: precision: 83.93 - recall: 84.26 - f1: 84.10 - loss: 0.08
+bc4chemd: precision: 83.45 - recall: 84.29 - f1: 83.87 - loss: 0.07
+bc4chemd: precision: 83.87 - recall: 84.21 - f1: 84.04 - loss: 0.07

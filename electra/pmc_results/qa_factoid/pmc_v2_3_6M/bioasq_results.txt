@@ -1,0 +1,10 @@
+bioasq: exact_match: 58.15 - f1: 67.85
+bioasq: exact_match: 58.87 - f1: 67.75
+bioasq: exact_match: 58.04 - f1: 67.26
+bioasq: exact_match: 57.93 - f1: 67.57
+bioasq: exact_match: 58.10 - f1: 67.52
+bioasq: exact_match: 57.32 - f1: 67.00
+bioasq: exact_match: 57.49 - f1: 67.38
+bioasq: exact_match: 57.10 - f1: 67.09
+bioasq: exact_match: 59.15 - f1: 68.46
+bioasq: exact_match: 57.16 - f1: 66.92

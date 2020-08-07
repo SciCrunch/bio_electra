@@ -1,0 +1,10 @@
+yesno: precision_yes: 92.08 - recall_yes: 91.18 - f1_yes: 91.63 - precision_no: 66.67 - recall_no: 69.23 - f1_no: 67.92 - loss: 0.26
+yesno: precision_yes: 93.07 - recall_yes: 92.16 - f1_yes: 92.61 - precision_no: 70.37 - recall_no: 73.08 - f1_no: 71.70 - loss: 0.27
+yesno: precision_yes: 92.38 - recall_yes: 95.10 - f1_yes: 93.72 - precision_no: 78.26 - recall_no: 69.23 - f1_no: 73.47 - loss: 0.29
+yesno: precision_yes: 91.43 - recall_yes: 94.12 - f1_yes: 92.75 - precision_no: 73.91 - recall_no: 65.38 - f1_no: 69.39 - loss: 0.29
+yesno: precision_yes: 89.91 - recall_yes: 96.08 - f1_yes: 92.89 - precision_no: 78.95 - recall_no: 57.69 - f1_no: 66.67 - loss: 0.30
+yesno: precision_yes: 90.00 - recall_yes: 97.06 - f1_yes: 93.40 - precision_no: 83.33 - recall_no: 57.69 - f1_no: 68.18 - loss: 0.31
+yesno: precision_yes: 91.51 - recall_yes: 95.10 - f1_yes: 93.27 - precision_no: 77.27 - recall_no: 65.38 - f1_no: 70.83 - loss: 0.27
+yesno: precision_yes: 90.91 - recall_yes: 98.04 - f1_yes: 94.34 - precision_no: 88.89 - recall_no: 61.54 - f1_no: 72.73 - loss: 0.26
+yesno: precision_yes: 93.27 - recall_yes: 95.10 - f1_yes: 94.17 - precision_no: 79.17 - recall_no: 73.08 - f1_no: 76.00 - loss: 0.30
+yesno: precision_yes: 87.83 - recall_yes: 99.02 - f1_yes: 93.09 - precision_no: 92.31 - recall_no: 46.15 - f1_no: 61.54 - loss: 0.33
