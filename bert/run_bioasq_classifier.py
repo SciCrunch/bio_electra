@@ -12,6 +12,11 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+#
+# modified by I. Burak Ozyurt to add new DataProcessor classes and random seed
+# comand line option.
+
+
 """BERT finetuning runner."""
 
 from __future__ import absolute_import
