@@ -54,7 +54,7 @@ def main():
     load_results(root_dir + '/linnaeus/linnaeus_results.pkl','linnaeus')
 
 
-if __main__ == "__main__":
+if __name__ == "__main__":
     main()
 
 
